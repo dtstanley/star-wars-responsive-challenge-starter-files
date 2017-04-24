@@ -15,9 +15,25 @@ header {
   height: 200px;
   text-align: center;
   padding-top: 30px;
+
 }
 
-.rey .chew .finn .kylo .yoda .poe {
+.pic{
+  width: 100%;
+}
+
+.clabel{
+  border: 1px solid purple;
+  padding: 10px;
+  background-color: white;
+  margin-top:0;
+  margin-bottom: 0;
+
+}
+
+
+.rey, .chew, .finn, .kylo, .yoda, .poe {
   background-color: white;
   color: black;
+  margin-bottom: 30px;
 }
