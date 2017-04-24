@@ -5,6 +5,11 @@ main {
 main .row {
   margin-bottom: 20px;
 }
+header {
+  background-color: gold;
+  color: black;
+  padding-left: 60px;
+}
 
 .box {
   height: 200px;
@@ -12,19 +17,7 @@ main .row {
   padding-top: 30px;
 }
 
-.black {
-  background-color: black;
-  color: white;
-}
-
-.green {
-  background-color: green;
-}
-
-.orange {
-  background-color: orange;
-}
-
-.blue {
-  background-color: blue;
+.rey .chew .finn .kylo .yoda .poe {
+  background-color: white;
+  color: black;
 }
